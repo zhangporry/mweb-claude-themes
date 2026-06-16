@@ -1,0 +1,669 @@
+{
+  "blockCode" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "edf2f8"
+  },
+  "footnoteDef" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d5dce4"
+  },
+  "linkLink" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d69870"
+  },
+  "ol" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d69870"
+  },
+  "editor" : {
+    "app-row-content-color" : "d5dce4",
+    "app-row-icon-color" : "d69870",
+    "app-row-separator-color" : "4a515a",
+    "currentLineBgColor" : "3d4450",
+    "bgColor" : "2e343c",
+    "caretColor" : "d69870",
+    "color" : "e8eef5",
+    "app-row-selected-bgColor" : "4a5260",
+    "app-row-info-color" : "a8b4c1",
+    "selectionColor" : "f5f8fb",
+    "selectionBgColor" : "4a5260",
+    "app-icon-color" : "d69870",
+    "app-group-color" : "a8b4c1",
+    "app-group-bgColor" : "2a3038",
+    "app-row-bgColor" : "343b44",
+    "app-row-title-color" : "f5f8fb"
+  },
+  "h1" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "inlineCode" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5b89d"
+  },
+  "image" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d69870"
+  },
+  "h2" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "table" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "e8eef5"
+  },
+  "h3" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "link" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d69870"
+  },
+  "strikethrough" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : true,
+    "isUnderline" : false,
+    "color" : "a8b4c1"
+  },
+  "h4" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "footnoteRef" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d69870"
+  },
+  "isAutoGenCSS" : false,
+  "codeblock-string" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "a8d4b0"
+  },
+  "codeblock-preprocessor" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "c5b8e8"
+  },
+  "h5" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "underline" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : true,
+    "color" : "e8eef5"
+  },
+  "inlineHTML" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "95a3b0"
+  },
+  "strong" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "blockHTML" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "95a3b0"
+  },
+  "codeblock-attribute" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "a5bfde"
+  },
+  "h6" : {
+    "isBold" : true,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "f5f8fb"
+  },
+  "quote" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d5dce4"
+  },
+  "codeblock-keyword" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "c5b8e8"
+  },
+  "ul" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "d69870"
+  },
+  "codeblock-comment" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "95a3b0"
+  },
+  "emph" : {
+    "isBold" : false,
+    "isItalic" : true,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "e8eef5"
+  },
+  "codeblock-character" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "e5c89a"
+  },
+  "codeblock-number" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "e5c89a"
+  },
+  "hr" : {
+    "isBold" : false,
+    "isItalic" : false,
+    "isStrikethrough" : false,
+    "isUnderline" : false,
+    "color" : "4a515a"
+  }
+}
+
+
+
+=============================================
+
+
+
+@charset "UTF-8";
+/*
+ * Claude-Like Grey Theme for MWeb 4
+ * 基于 Anthropic Claude 设计语言的灰色主题
+ * 优化版本 - 完美适配 MWeb 4 - 专业中性色调
+ */
+
+html {
+  font-family: "Anthropic Serif", "Source Serif 4", Georgia, "Times New Roman", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", STSong, "PingFang SC", "Hiragino Sans GB", serif;
+  font-size: 16px;
+  color: #e8eef5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #2e343c;
+  line-height: 1.62;
+  -webkit-text-size-adjust: 100%;
+  max-width: 780px;
+  margin: 0px auto;
+  padding: 2rem 2.5rem 6.5rem;
+}
+
+.markdown-body {
+  line-height: 1.62;
+  color: #e8eef5;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  text-rendering: optimizeLegibility;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.markdown-body > *:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table {
+  margin: 0.8em 0;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.72em;
+  font-family: "Anthropic Serif", "Source Serif 4", Georgia, "Times New Roman", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", STSong, "PingFang SC", "Hiragino Sans GB", serif;
+  font-weight: 600;
+  line-height: 1.28;
+  color: #f5f8fb;
+  letter-spacing: -0.01em;
+}
+
+.markdown-body h1 {
+  font-size: 1.88em;
+  line-height: 1.14;
+  margin-top: 0.35rem;
+  font-weight: 650;
+}
+
+.markdown-body h2 {
+  font-size: 1.52em;
+  line-height: 1.18;
+  font-weight: 630;
+}
+
+.markdown-body h3 {
+  font-size: 1.26em;
+  line-height: 1.3;
+  font-weight: 620;
+}
+
+.markdown-body h4 {
+  font-size: 1.12em;
+  font-weight: 610;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #c5d1de;
+  font-weight: 600;
+}
+
+.markdown-body strong,
+.markdown-body b {
+  font-weight: 700;
+  color: #f5f8fb;
+  font-synthesis: weight;
+}
+
+.markdown-body hr {
+  height: 1px;
+  padding: 0;
+  margin: 1.75rem 0;
+  background-color: #4a515a;
+  border: 0 none;
+  opacity: 0.7;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 1.5rem;
+  margin-left: 0;
+}
+
+.markdown-body li {
+  padding-left: 0.2rem;
+  word-wrap: break-word;
+}
+
+.markdown-body li + li {
+  margin-top: 0.35em;
+}
+
+.markdown-body ul li::marker {
+  color: #d69870;
+  font-size: 0.85em;
+}
+
+.markdown-body ol li::marker {
+  color: #d69870;
+  font-weight: 500;
+}
+
+.markdown-body ul ul,
+.markdown-body ol ul,
+.markdown-body ul ol,
+.markdown-body ol ol {
+  margin-top: 0.35em;
+  margin-bottom: 0;
+}
+
+.markdown-body blockquote {
+  border-left: 2.5px solid #5a6573;
+  background-color: #3a4149;
+  padding: 0.65rem 1.1rem;
+  color: #d5dce4;
+  border-radius: 8px;
+  margin: 0.9em 0;
+}
+
+.markdown-body blockquote > :first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body a {
+  color: #d69870;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.markdown-body a:hover {
+  color: #e8b490;
+  border-bottom-color: #d69870;
+}
+
+.markdown-body code,
+.markdown-body tt {
+  font-family: "SF Mono", Menlo, Monaco, "Cascadia Code", "Consolas", "Courier New", "Sarasa Mono SC", monospace;
+  border: 1px solid #515964;
+  background-color: #3d4450;
+  color: #f5b89d;
+  border-radius: 4px;
+  padding: 0.12em 0.5em 0.14em;
+  font-size: 0.88em;
+  box-shadow: inset 0 0.5px 0 rgba(255, 255, 255, 0.04);
+  font-weight: 450;
+}
+
+.markdown-body pre,
+.markdown-body pre[class*=language-] {
+  font-family: "SF Mono", Menlo, Monaco, "Cascadia Code", "Consolas", "Courier New", "Sarasa Mono SC", monospace;
+  border: 1px solid #4a515a;
+  background-color: #383f48;
+  color: #edf2f8;
+  border-radius: 6px;
+  padding: 1rem 1.15rem 1rem;
+  font-size: 0.88em;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  margin: 1rem 0 1.2rem;
+  line-height: 1.52;
+  overflow-x: auto;
+  font-weight: 400;
+}
+
+.markdown-body pre code,
+.markdown-body pre tt {
+  border: 0 !important;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  color: inherit !important;
+  font-weight: 400 !important;
+}
+
+.markdown-body code[class*=language-],
+.markdown-body pre[class*=language-] {
+  color: #edf2f8;
+  background: none;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.52;
+  tab-size: 4;
+}
+
+.markdown-body .token.comment,
+.markdown-body .token.prolog,
+.markdown-body .token.doctype,
+.markdown-body .token.cdata {
+  color: #95a3b0;
+  font-style: italic;
+}
+
+.markdown-body .token.keyword,
+.markdown-body .token.atrule,
+.markdown-body .token.attr-value {
+  color: #c5b8e8;
+  font-weight: 500;
+}
+
+.markdown-body .token.string,
+.markdown-body .token.selector,
+.markdown-body .token.char,
+.markdown-body .token.builtin,
+.markdown-body .token.inserted {
+  color: #a8d4b0;
+}
+
+.markdown-body .token.number,
+.markdown-body .token.boolean {
+  color: #e5c89a;
+}
+
+.markdown-body .token.property,
+.markdown-body .token.tag,
+.markdown-body .token.constant,
+.markdown-body .token.symbol,
+.markdown-body .token.attr-name,
+.markdown-body .token.attribute {
+  color: #a5bfde;
+  font-weight: 500;
+}
+
+.markdown-body .token.function,
+.markdown-body .token.class-name {
+  color: #edf2f8;
+  font-weight: 550;
+}
+
+.markdown-body .token.operator,
+.markdown-body .token.entity,
+.markdown-body .token.url {
+  color: #a8b4c1;
+}
+
+.markdown-body .token.punctuation {
+  color: #a8b4c1;
+}
+
+.markdown-body table {
+  padding: 0;
+  width: 100%;
+  border-collapse: collapse;
+  border-top: 1.5px solid #5a6573;
+  border-bottom: 1.5px solid #5a6573;
+  background-color: transparent;
+  word-break: initial;
+  color: #e8eef5;
+  margin: 1rem 0;
+}
+
+.markdown-body table tr {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-body table thead tr {
+  border-bottom: 1.5px solid #5a6573;
+  background-color: rgba(58, 65, 73, 0.4);
+}
+
+.markdown-body table tbody tr {
+  border-bottom: 1px solid rgba(220, 226, 232, 0.1);
+}
+
+.markdown-body table tbody tr:last-child {
+  border-bottom: 0;
+}
+
+.markdown-body table tbody tr:hover td {
+  background-color: rgba(214, 152, 112, 0.07);
+}
+
+.markdown-body table th {
+  font-weight: 600;
+  border: 0;
+  margin: 0;
+  padding: 0.85rem 1.25rem 0.75rem 0;
+  text-align: left;
+  vertical-align: bottom;
+  color: #f5f8fb;
+  font-size: 0.91rem;
+  line-height: 1.45;
+  letter-spacing: -0.005em;
+}
+
+.markdown-body table td {
+  border: 0;
+  margin: 0;
+  padding: 0.82rem 1.25rem 0.82rem 0;
+  vertical-align: top;
+  font-size: 0.91rem;
+  line-height: 1.54;
+}
+
+.markdown-body table th:first-child,
+.markdown-body table td:first-child {
+  color: #f5f8fb;
+  font-weight: 500;
+}
+
+.markdown-body table th:last-child,
+.markdown-body table td:last-child {
+  padding-right: 0;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.markdown-body mark {
+  background-color: #5a4a35;
+  padding: 0.15em 0.4em;
+  color: inherit;
+  border-radius: 2px;
+}
+
+.markdown-body del,
+.markdown-body s {
+  color: #a8b4c1;
+  opacity: 0.85;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+  padding-left: 0.2rem;
+}
+
+.markdown-body .task-list-item > input[type=checkbox] {
+  margin-left: -1.45em;
+  margin-right: 0.5em;
+  accent-color: #d69870;
+  cursor: pointer;
+}
+
+.markdown-body div[id^=mweb-chart-ele] svg {
+  background-color: #383f48;
+  border-radius: 4px;
+}
+
+.markdown-body .footnotes {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #4a515a;
+  font-size: 0.92em;
+  color: #d5dce4;
+}
+
+.markdown-body .footnotes > ol li {
+  text-indent: 0;
+}
+
+.markdown-body .footnotes > ol li::before {
+  float: left;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 1.5rem 1.25rem 5rem;
+  }
+
+  .markdown-body h1 {
+    font-size: 1.72em;
+  }
+
+  .markdown-body h2 {
+    font-size: 1.42em;
+  }
+}
